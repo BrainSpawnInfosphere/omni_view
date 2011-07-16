@@ -1,0 +1,20 @@
+<package>
+  <description brief="omni_view">
+
+     omni_view
+
+  </description>
+  <author>Kevin Walchko</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/omni_view</url>
+  <depend package="opencv2"/>
+  <depend package="roscpp"/>
+  <depend package="cv_bridge"/>
+  <depend package="std_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
